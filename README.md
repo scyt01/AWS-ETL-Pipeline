@@ -35,6 +35,7 @@ Target Audience: Consumers and Energy Companies
     - XGBoost Linear Regressor Model
 
 ## Solution (Data Pipeline Architecture)
+<img width="850" height="500" alt="Data Pipeline Architecture" src="Data Pipeline Architecture.png">
 
 ## Project Contributions
 **Preliminary stage**
