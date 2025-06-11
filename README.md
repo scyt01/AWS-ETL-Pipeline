@@ -1,9 +1,10 @@
 # AWS Big Data Architecture ETL Pipeline Group Project
 
-The group project was to implement an end-to-end ETL pipeline using AWS services to extract insights from London’s household energy consumption dataset (2011-2014) and display results through visualisations.
+The group project was to implement an end-to-end ETL pipeline using AWS services to extract insights from London’s household energy consumption dataset (2011-2014) and display results through visualisations
 
 ## Dataset
-[Smart Meters in London](https://www.kaggle.com/datasets/jeanmidev/smart-meters-in-london) (Household Electricity Consumption)
+[Smart Meters in London](https://www.kaggle.com/datasets/jeanmidev/smart-meters-in-london)
+- Household Electricity Consumption
 
 ## Problem Statements
 
