@@ -44,8 +44,8 @@ Target Audience: Consumers and Energy Companies
 - Led the team to perform EDA analysis and train XGBoost Linear Regressor Model for Problem Statement 2
 
 **Final Data Pipeline (Problem Statement 2)**
-- Created notebook containing EDA and ML model (model training and evaluation) in Sagemaker
-    - Ensured that raw data files are present and after triggering the pipeline, new data files are created in AWS S3
+- Created notebook containing Exploratory Data Analysis (EDA) and Machine Learning (ML) model for model training and evaluation in Sagemaker using Python Pandas, XGBoost, Matplotlib, Scikit-learn libraries
+    - Ensured that raw data files are present and after triggering the pipeline, new data files are created in AWS S3 with Python Boto3 library
 - Created Sagemaker ML pipeline so that execution of ML model starts automatically once main data pipeline is triggered
 - Debugged code using Cloudwatch logs
 
